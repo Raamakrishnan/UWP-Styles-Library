@@ -8,7 +8,7 @@ A custom App Bar Toggle Button Style for UWP which looks similar to Windows in-b
 
 ### Checked - Default style
 
-![alt text](https://github.com/Raamakrishnan/CustomAppBarToggleButton/blob/master/DefaultChecked.PNG "Built-in FullSize")
+![alt text](DefaultChecked.PNG "Built-in FullSize")
 
 ### Checked - Style used in In-Built apps
 
