@@ -16,4 +16,5 @@ https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/resourcedicti
 
 ## License
 You can do whatever you want :D
-I will be very happy to know that I was of help to you. So, please tell me if you ever use this :)
+
+I will be very happy to know that I was of help to you. So, please tell let me know if you ever use this :)
