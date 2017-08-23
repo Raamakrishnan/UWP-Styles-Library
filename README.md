@@ -14,4 +14,5 @@ Just for reference:
 https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/resourcedictionary-and-xaml-resource-references#merged-resource-dictionaries
 
 ## License
-Do whatever you want :D
+You can do whatever you want :D
+I will be very happy to know that I was of help to you. So, please tell me if you ever use this :)
