@@ -6,7 +6,7 @@ Some simple Progress Ring styles.
 |:---:|:---:|
 | ProgressRingStyle1 | ProgressRingStyle2 |
 
-*Note: The actual animation is maybe faster than what it seems in the above gif. Please use it an actual xaml app to judge the speed and adjust accordingly*
+*Note: The actual animation maybe faster than what it seems in the above gif. Please use it an actual xaml app to judge the speed and adjust accordingly*
 
 ## Usage
 Use `ProgressRingStyle1` as the style for your `ProgressRing` control to use this.
