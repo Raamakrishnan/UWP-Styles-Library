@@ -2,11 +2,10 @@
 Just a collection of some cool styles that you can just add on to your next UWP project!
 
 ## The Collection
-* [Custom App Bar Toggle Button](/CustomAppBarToggleButtonStyle)
+* [App Bar Styles](/AppBar)
 * [Button Styles](/Button)
 * [Pivot Styles](/Pivot)
-* [Icon In Secondary App Bar Button Style](/IconInSecondaryAppBarButtonStyle)
-* [Progress Ring Styles](/ProgressRingStyles)
+* [Progress Ring Styles](/ProgressRing)
 
 ## Usage
 The XAML Resource dictionary containing the style will be given here. Add it to your project the usual way!

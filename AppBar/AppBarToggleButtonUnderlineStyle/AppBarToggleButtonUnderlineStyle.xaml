@@ -3,7 +3,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:CustomAppBarToggleButton">
 
-  <Style TargetType="AppBarToggleButton">
+  <Style x:Key="AppBarToggleButtonUnderlineStyle" TargetType="AppBarToggleButton">
     <Setter Property="Template">
       <Setter.Value>
         <ControlTemplate TargetType="AppBarToggleButton">

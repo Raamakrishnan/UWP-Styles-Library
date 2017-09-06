@@ -1,8 +1,8 @@
 ﻿<ResourceDictionary
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:IconInSecondaryAppBarButton">
-    <Style x:Key="IconInSecondaryAppBarButton" TargetType="AppBarButton">
+    <Style x:Key="AppBarButtonSecondaryIconStyle" TargetType="AppBarButton">
         <Setter Property="HorizontalAlignment" Value="Stretch" />
         <Setter Property="Width" Value="Auto"/>
         <Setter Property="Template">
