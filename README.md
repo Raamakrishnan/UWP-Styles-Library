@@ -4,6 +4,7 @@ Just a collection of some cool styles that you can just add on to your next UWP 
 ## The Collection
 * [App Bar Styles](/AppBar)
 * [Button Styles](/Button)
+* [Content Dialog Styles](/ContentDialog)
 * [Pivot Styles](/Pivot)
 * [Progress Ring Styles](/ProgressRing)
 
