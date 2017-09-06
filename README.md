@@ -3,10 +3,9 @@ Just a collection of some cool styles that you can just add on to your next UWP 
 
 ## The Collection
 * [Custom App Bar Toggle Button](/CustomAppBarToggleButtonStyle)
-* [Rounded Button Style](/RoundedButtonStyle)
+* [Button Styles](/Button)
 * [Pivot Styles](/Pivot)
 * [Icon In Secondary App Bar Button Style](/IconInSecondaryAppBarButtonStyle)
-* [Circle Button Style](/CircleButtonStyle)
 * [Progress Ring Styles](/ProgressRingStyles)
 
 ## Usage
