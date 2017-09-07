@@ -36,8 +36,6 @@ Ex. `./Pivot/PivotHeader/`
 
 `Pivot` folder contains styles for Pivot Control. Because PivotHeader can only be used inside a Pivot, `PivotHeader` folder is kept inside `Pivot` folder.
 
-*Note: Conventions are yet to be applied fully*
-
 ## License
 You can do whatever you want :D
 
