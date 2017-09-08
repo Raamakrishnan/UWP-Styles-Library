@@ -11,7 +11,7 @@ Checked with **Windows 10 Anniversary Update (14393)**.
 >
 > Change lines 141 - 142 in `PivotHeaderItemAccentUnderlineStyle` as:
 >
-> ```xml
+> ```xaml
 > <Rectangle x:Name="UnderScore" HorizontalAlignment="Stretch"
 >            VerticalAlignment="Top" Height="2" Visibility="Collapsed" Fill="{ThemeResource SystemControlBackgroundAccentBrush}"/>
 > ```
