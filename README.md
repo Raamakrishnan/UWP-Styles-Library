@@ -3,9 +3,16 @@ Just a collection of some cool styles that you can just add on to your next UWP 
 
 ## The Collection
 * [App Bar Styles](/AppBar)
+    * [App Bar Button Secondary Icon Style](./AppBar/AppBarButtonSecondaryIconStyle)
+    * [App Bar Toggle Button Underline Style](./AppBar/AppBarToggleButtonUnderlineStyle)
 * [Button Styles](/Button)
+    * [Button Circle Style](./Button/ButtonCircleStyle)
+    * [Button Rounded Style](./Button/ButtonRoundedStyle)
 * [Content Dialog Styles](/ContentDialog)
+    * [Content Dialog With Close Button Style](./ContentDialog/ContentDialogWithCloseButtonStyle)
 * [Pivot Styles](/Pivot)
+    * [Pivot Bottom Header Style](./Pivot/PivotBottomHeaderStyle)
+    * [Pivot Header Item Accent Underline Style](./Pivot/PivotHeaderItemAccentUnderlineStyle)
 * [Progress Ring Styles](/ProgressRing)
 
 ## Usage
