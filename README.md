@@ -13,6 +13,7 @@ Just a collection of some cool styles that you can just add on to your next UWP 
 * [Pivot Styles](/Pivot)
     * [Pivot Bottom Header Style](./Pivot/PivotBottomHeaderStyle)
     * [Pivot Header Item Accent Underline Style](./Pivot/PivotHeaderItemAccentUnderlineStyle)
+    * [Pivot Tabbed Style](./Pivot/PivotTabbedStyle)
 * [Progress Ring Styles](/ProgressRing)
 
 ## Usage
