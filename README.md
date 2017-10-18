@@ -14,6 +14,8 @@ Just a collection of some cool styles that you can just add on to your next UWP 
     * [Pivot Bottom Header Style](./Pivot/PivotBottomHeaderStyle)
     * [Pivot Header Item Accent Underline Style](./Pivot/PivotHeaderItemAccentUnderlineStyle)
     * [Pivot Tabbed Style](./Pivot/PivotTabbedStyle)
+* [Toggle Button Styles](/ToggleButton)
+    * [Toggle Button Twitter Style](/ToggleButtonTwitterStyle)
 * [Progress Ring Styles](/ProgressRing)
 
 ## Usage
