@@ -19,6 +19,10 @@ Use the ones you require. To use it for your own icon:
 
 Checked with **Windows 10 Creators Update 15063**
 
+### Inspired from
+* [Twitter's like animation in Android - alternative](http://frogermcs.github.io/twitters-like-animation-in-android-alternative/)
+* [jd-alexander/LikeButton](https://github.com/jd-alexander/LikeButton)
+
 ### Known Issues
 * Not tested with touch. Might require adding few other transitions.
 * Doesn't work if the pointer is moved fast after clicking (It changes state too fast)
