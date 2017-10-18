@@ -18,3 +18,7 @@ Use the ones you require. To use it for your own icon:
 * You are good to go!
 
 Checked with **Windows 10 Creators Update 15063**
+
+### Known Issues
+* Not tested with touch. Might require adding few other transitions.
+* Doesn't work if the pointer is moved fast after clicking (It changes state too fast)
